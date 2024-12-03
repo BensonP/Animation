@@ -12,7 +12,7 @@
 ### **UE5 Fishing Game**
 [Watch Gameplay](https://drive.google.com/file/d/1jKaDlTHO40KwfDRmPCUTchO4AY9528Fx/view?usp=sharing)
 ---
-## **Work on Video Game Capstone **
+## **Work on Video Game Capstone**
 ### **Manteling and Climbing System**
 [Watch the Climbing Demo](https://drive.google.com/file/d/1rx9FarOKPdDznpbUdJ8F7ZAPUktXJBAV/view?usp=sharing)
 #### **Video Example**
