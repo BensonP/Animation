@@ -15,5 +15,4 @@
 ## **Work on Video Game Capstone**
 ### **Manteling and Climbing System**
 [Watch the Climbing Demo](https://drive.google.com/file/d/1rx9FarOKPdDznpbUdJ8F7ZAPUktXJBAV/view?usp=sharing)
-#### **Video Example**
-https://drive.google.com/file/d/1rx9FarOKPdDznpbUdJ8F7ZAPUktXJBAV/view?usp=sharing
+
