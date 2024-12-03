@@ -1,8 +1,9 @@
 # Animation
 ---
 ## **Modeling**
+
 ### **Still Life**
-"3D Modeling/BensonProbst_stillLifeFinal.jpg:
+![Still Life Render](3D%20Modeling/BensonProbst_stillLifeFinal.jpg)
 ---
 ### **Lego Scene**
-"3D Modeling/lego 3.PNG"
+![LEGO Scene](3D%20Modeling/lego%203.PNG)
